@@ -6,7 +6,7 @@
 #include <string.h>
 #include <memory.h>
 
-#define GRID_SIZE 10
+#define GRID_SIZE 10 
 #define CELL_SIZE 50
 #define WINDOW_WIDTH 1200
 #define WINDOW_HEIGHT 650
