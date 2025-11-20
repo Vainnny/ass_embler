@@ -1,0 +1,3 @@
+/Users/loxop4d/CLionProjects/MAPKART/cmake-build-debug/CMakeFiles/map_colorizer.dir
+/Users/loxop4d/CLionProjects/MAPKART/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/loxop4d/CLionProjects/MAPKART/cmake-build-debug/CMakeFiles/rebuild_cache.dir

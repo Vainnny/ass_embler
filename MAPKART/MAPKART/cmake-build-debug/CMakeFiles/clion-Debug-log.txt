@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/loxop4d/CLionProjects/MAPKART -B /Users/loxop4d/CLionProjects/MAPKART/cmake-build-debug
+-- CMake configuration complete. Use 'make' to build the project.
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/loxop4d/CLionProjects/MAPKART/cmake-build-debug

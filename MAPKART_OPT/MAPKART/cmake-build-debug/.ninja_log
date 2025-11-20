@@ -1,0 +1,9 @@
+# ninja log v6
+4	64	1763493386664774618	build.ninja	3ecc0e0a89c05723
+6	49	1760773875198548022	CMakeFiles/map_colorizer.dir/utils.c.o	a808fdf0bb8bf3f3
+56	95	1760773875248967217	map_colorizer	bcaaa8b049d752d6
+5	53	1760773875198071448	CMakeFiles/map_colorizer.dir/graph.c.o	eb46d4f451eaf852
+4	52	1760773875197029050	CMakeFiles/map_colorizer.dir/main.c.o	712ef33d385a8c97
+5	52	1760773875197636331	CMakeFiles/map_colorizer.dir/bmp_handler.c.o	66d050ea05775396
+5	53	1760773875197834410	CMakeFiles/map_colorizer.dir/region_detector.c.o	e6e07ad9ee82bf5
+6	56	1760773875198355359	CMakeFiles/map_colorizer.dir/colorizer.c.o	d734a959bd6cf4d8
